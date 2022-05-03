@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/ic_post"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_add_24"
+        android:title="post" />
+    <item
+        android:id="@+id/video"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_slow_motion_video_24"
+        android:title="video" />
+<!--    <item-->
+<!--        android:id="@+id/page_4"-->
+<!--        android:enabled="true"-->
+<!--        android:icon="@drawable/ic_baseline_shopping_basket_24"-->
+<!--        android:title="video" />-->
+</menu>
